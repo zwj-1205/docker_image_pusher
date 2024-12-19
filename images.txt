@@ -1,1 +1,3 @@
-openjdk:8-jdk
+openjdk:17-jdk
+openjdk:21-jdk
+mysql:8.0
